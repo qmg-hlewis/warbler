@@ -7,7 +7,7 @@
   <description>An all-in-one-jar embedded Jetty server for use with Warbler's "warble executable war".</description>
   <url>http://github.com/jruby/warbler/</url>
   <properties>
-    <jetty.version>8.1.2.v20120308</jetty.version>
+    <jetty.version>8.1.7.v20120910</jetty.version>
   </properties>
 
   <distributionManagement>
